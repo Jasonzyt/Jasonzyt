@@ -1,8 +1,10 @@
-🌱 I'm a student;  
-✨ Like `Minecraft` & `Genshin Impact`;  
-⚡ I'm a developer of Minecraft BDS;  
-💬 You can contact me by Email/Twitter/QQ;  
-:earth_asia: I come from Wuhan,Hubei Province,PRC(`GMT/UTC+8`);  
+🌱 I'm a student  
+⚡ I'm a developer of Minecraft BDS  
+💬 You can contact me by Email/Twitter/QQ  
+🎮 Faviorite Games: `Minecraft` & `Genshin Impact`  <!--🏆 Prize: First prize of CSP-J in Hubei Province-->  
+:computer: Languages: `C++` `Java` `Kotlin` `PHP` `JavaScript`    
+:earth_asia: I come from Wuhan,Hubei Province,PRC(`GMT/UTC+8`)  
+
 [![Jasonzyt's GitHub Status](https://github-readme-stats.vercel.app/api?username=Jasonzyt)]()  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonzyt&layout=compact)]()
 > `0 Error(s), 0 Warning(s)`
