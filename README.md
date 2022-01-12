@@ -5,7 +5,7 @@
 💬 You can contact me by Email/Twitter/QQ   
 :earth_asia: I come from Wuhan,Hubei Province,PRC(`🕗 GMT/UTC+8`)  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JasonZYT&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JasonZYT&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonzyt&layout=compact)]()-->
 
 #### :computer:LANGUAGES
