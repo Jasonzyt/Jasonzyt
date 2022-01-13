@@ -63,7 +63,7 @@ root@jasonzyt:~$ github repo list
  | <a href="https://github.com/LiteLDev/LiteXLoader"     >LiteLDev/LiteXLoader</a>          | A cross-language script plugin loader for BDS         C++ |
  | <a href="https://github.com/ddf8196/FakePlayer"       >ddf8196/FakePlayer</a>            | A fake player client for Minecraft: Bedrock Edition  Java |
  |===============================|===========================================================|
-root@jasonzyt:~$ 
+root@jasonzyt:~$ rm -rf /*▍
 </pre>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
