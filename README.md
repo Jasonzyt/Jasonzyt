@@ -1,12 +1,11 @@
-### Hi, I'm JasonZYT:wave:
+### Hi there, I'm JasonZYT:wave:
 
-🌱 I'm a middle school student 
-⚡ I'm a developer of Minecraft BDS  
+🌱 I'm a middle school student  
+⚡ I'm also a developer of Minecraft BDS  
 💬 You can contact me by Email/Twitter/QQ   
 :earth_asia: I come from Wuhan,Hubei Province,PRC(`🕗 GMT/UTC+8`)  
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JasonZYT&show_icons=true&icon_color=0078e7&title_color=0078e7">
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonzyt&layout=compact)]()-->
 
 #### :computer:LANGUAGES
 
@@ -41,7 +40,7 @@
 <!-- organization:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://avatars.githubusercontent.com/u/78095377" alt="LiteLDev" /></code>&nbsp;<a href="https://github.com/LiteLDev">@LiteLDev</a>
+<code><a href="https://github.com/LiteLDev"><img height="20" src="https://avatars.githubusercontent.com/u/78095377" alt="LiteLDev" />&nbsp;@LiteLDev</a></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- orgainization:end -->
