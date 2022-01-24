@@ -57,8 +57,9 @@
 root@jasonzyt:~$ github repo list
  GitHub Repositories Tool | Author: Jasonzyt
  |============= KEY =============|========================== VALUE ==========================|
- | <a href="https://github.com/Jasonzyt/FakePlayerHelper">Jasonzyt/FakePlayerHelper</a>     | A simple FakePlayer manager                           C++ |
- | <a href="https://github.com/Jasonzyt/BDSWebSocket"    >Jasonzyt/BDSWebSocket(WIP)</a>    | A open-source WebSocket(Server) API plugin for BDS    C++ |
+ | <a href="https://github.com/Jasonzyt/FakePlayerHelper">Jasonzyt/FakePlayerHelper</a>     | A simple FakePlayer manager plugin                    C++ |
+ | <a href="https://github.com/Jasonzyt/BDSWebSocket"    >Jasonzyt/BDSWebSocket(WIP)</a>    | An open-source WebSocket(Server) API plugin for BDS   C++ |
+ | <a href="https://github.com/Jasonzyt/QuickBackupX"    >Jasonzyt/QuickBackupX</a>         | A backup plugin for BDS                               C++ |
  | <a href="https://github.com/LiteLDev/LiteLoaderBDS"   >LiteLDev/LiteLoaderBDS</a>        | A lightweight plugin loader for BDS                   C++ |
  | <a href="https://github.com/LiteLDev/LiteXLoader"     >LiteLDev/LiteXLoader</a>          | A cross-language script plugin loader for BDS         C++ |
  | <a href="https://github.com/ddf8196/FakePlayer"       >ddf8196/FakePlayer</a>            | A fake player client for Minecraft: Bedrock Edition  Java |
