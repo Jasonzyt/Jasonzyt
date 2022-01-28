@@ -50,7 +50,6 @@
 <!-- repos:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<h5>Minecraft Open-source Projects</h5>
 <!-- Key: 31, Value: 59 -->
 <!-- This is a fake console XD -->
 <pre>
