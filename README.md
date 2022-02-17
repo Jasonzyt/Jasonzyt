@@ -61,6 +61,7 @@ root@jasonzyt:~$ github repo list
  | <a href="https://github.com/Jasonzyt/QuickBackupX"       >Jasonzyt/QuickBackupX</a>         | A backup plugin for BDS                               C++ |
  | <a href="https://github.com/Jasonzyt/File-Web-Repository">Jasonzyt/File-Web-Repository</a>  | A personal file repository website                    PHP |
  | <a href="https://github.com/Jasonzyt/PHPBackupAPI"       >Jasonzyt/PHPBackupAPI</a>         | Backup APIs based on PHP&HTTP                         PHP |
+ | <a href="https://github.com/Jasonzyt/GitHubBot"          >Jasonzyt/GitHubBot(WIP)</a>       | A plugin for Mirai QQ bot based on Webhooks        Kotlin |
  | <a href="https://github.com/LiteLDev/LiteLoaderBDS"      >LiteLDev/LiteLoaderBDS</a>        | A lightweight plugin loader for BDS                   C++ |
  | <a href="https://github.com/ddf8196/FakePlayer"          >ddf8196/FakePlayer</a>            | A fake player client for Minecraft: Bedrock Edition  Java |
  |===============================|===========================================================|
