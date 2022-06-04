@@ -1,6 +1,6 @@
 ### Hi there, I'm JasonZYT:wave:
 
-🌱 I'm a middle school student  
+🌱 I'm a junior high school student  
 ⚡ I'm also a developer of Minecraft BDS  
 💬 You can contact me by Email/Twitter/QQ   
 :earth_asia: I come from Wuhan,Hubei Province,PRC(`🕗 GMT/UTC+8`)  
