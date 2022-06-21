@@ -3,7 +3,7 @@
 🌱 I'm a junior high school student  
 ⚡ I'm also a developer of Minecraft BDS  
 💬 You can contact me by Email/Twitter/QQ   
-:earth_asia: I come from Wuhan,Hubei Province,PRC(`🕗 GMT/UTC+8`)  
+:earth_asia: I come from China(`🕗 GMT/UTC+8`)  
 
 <img align="right" src="https://github.com/Jasonzyt/github-stats/blob/master/generated/overview.svg" />
 
