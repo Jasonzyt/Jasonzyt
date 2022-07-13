@@ -59,6 +59,7 @@ root@jasonzyt:~$ github repo list
  GitHub Repositories Tool | Author: Jasonzyt
  |============= KEY =============|========================== VALUE ==========================|
  | <a href="https://github.com/LiteLDev/LiteLoaderBDS"      >LiteLDev/LiteLoaderBDS</a>        | A lightweight plugin loader for BDS                   C++ |
+ | <a href="https://github.com/LiteLDev/PermissionAPI"      >LiteLDev/PermissionAPI</a>        | Powerful permission group API for LiteLoaderBDS       C++ |
  | <a href="https://github.com/Jasonzyt/Calculator"         >Jasonzyt/Calculator</a>           | In-game calculator for MCBDS                          C++ |
  | <a href="https://github.com/Jasonzyt/FakePlayerHelper"   >Jasonzyt/FakePlayerHelper</a>     | A simple FakePlayer manager plugin                    C++ |
  | <a href="https://github.com/Jasonzyt/BDSWebSocket"       >Jasonzyt/BDSWebSocket(WIP)</a>    | An open-source WebSocket(Server) API plugin for BDS   C++ |
