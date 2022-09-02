@@ -33,6 +33,9 @@
 <!-- markdownlint-disable -->
 <code><a href="https://minecraft.net/"><img height="20" src="assets/img/minecraft.net.ico" alt="minecraft" /></a></code>
 <code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/img/genshin-impact.png" alt="genshin" /></a>&nbsp;TECH OTAKUS SAVE THE WORLD!!!</code>
+<br />
+<br />
+<img src="https://genshin-card.getloli.com/detail/rand/280694150.png" alt="genshin-card" />
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
