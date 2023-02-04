@@ -2,7 +2,8 @@
 
 🌱 I'm a junior high school student  
 ⚡ I'm also a developer of Minecraft BDS  
-💬 You can contact me by Email/Twitter/QQ   
+💬 You can contact me by Email/Twitter/Telegram/Discord/QQ   
+📢 Subscribe my Telegram Channel! -> [Chinese](https://t.me/jasonzyt_channel) & [English](https://t.me/jasonzyt_channel_en)  
 :earth_asia: I come from China(`🕗 GMT/UTC+8`)  
 
 <img align="right" src="https://github.com/Jasonzyt/github-stats/blob/master/generated/overview.svg" />
