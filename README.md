@@ -36,7 +36,7 @@
 <code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/img/genshin-impact.png" alt="genshin" /></a>&nbsp;TECH OTAKUS SAVE THE WORLD!!!</code>
 <br />
 <br />
-<img src="https://genshin-card.getloli.com/detail/rand/280694150.png" alt="genshin-card" />
+<img width="384px" height="224px" src="https://raw.githubusercontent.com/Jasonzyt/genshin-stats/main/out.png" alt="玩原神玩的" />
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
