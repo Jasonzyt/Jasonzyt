@@ -64,17 +64,14 @@
 <pre>
 root@jasonzyt:~$ github repo list
  GitHub Repositories Tool | Author: Jasonzyt
- |============= REPO =============|=========================== DESC ===========================|
- | <a href="https://github.com/LiteLDev/LiteLoaderBDS"      >LiteLDev/LiteLoaderBDS</a>         | A lightweight plugin loader for BDS                    C++ |
- | <a href="https://github.com/LiteLDev/PermissionAPI"      >LiteLDev/PermissionAPI</a>         | Powerful permission group API for LiteLoaderBDS        C++ |
- | <a href="https://github.com/Jasonzyt/Calculator"         >Jasonzyt/Calculator</a>            | In-game calculator for BDS                             C++ |
- | <a href="https://github.com/Jasonzyt/FakePlayerHelper"   >Jasonzyt/FakePlayerHelper</a>      | A simple FakePlayer manager plugin                     C++ |
- | <a href="https://github.com/Jasonzyt/QuickBackupX"       >Jasonzyt/QuickBackupX</a>          | A backup plugin for BDS                                C++ |
- | <a href="https://github.com/Jasonzyt/password-fabric"    >Jasonzyt/password-fabric</a>       | Password and whitelist plugin for fabric servers      Java |
- | <a href="https://github.com/Jasonzyt/File-Web-Repository">Jasonzyt/File-Web-Repository</a>   | A personal file repository website                     PHP |
- | <a href="https://github.com/Jasonzyt/background.js"      >Jasonzyt/background.js</a>         | A simple background image interface for JS & CSS        JS |
- | <a href="https://github.com/ddf8196/FakePlayer"          >ddf8196/FakePlayer</a>             | A fake player client for Minecraft: Bedrock Edition   Java |
- |================================|============================================================|
+ |============= REPO =============|============================ DESC ============================|
+ | <a href="https://github.com/LiteLDev/LiteLoaderBDS"      >LiteLDev/LiteLoaderBDS</a>         | A lightweight plugin loader for BDS                      C++ |
+ | <a href="https://github.com/LiteLDev/PermissionAPI"      >LiteLDev/PermissionAPI</a>         | Powerful permission group API for LiteLoaderBDS          C++ |
+ | <a href="https://github.com/Jasonzyt/password-fabric"    >Jasonzyt/password-fabric</a>       | Password and whitelist plugin for fabric servers        Java |
+ | <a href="https://github.com/Jasonzyt/background.js"      >Jasonzyt/background.js</a>         | A simple background image interface for JS & CSS          JS |
+ | <a href="https://github.com/Jasonzyt/genshin-stats"      >Jasonzyt/genshin-stats</a>         | Generate genshin stats card like the image above      Python |
+ | <a href="https://github.com/ddf8196/FakePlayer"          >ddf8196/FakePlayer</a>             | A fake player client for Minecraft: Bedrock Edition     Java |
+ |================================|==============================================================|
 root@jasonzyt:~$ rm -rf /*▍
 </pre>
 <!-- markdownlint-restore -->
