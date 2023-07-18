@@ -1,14 +1,16 @@
-### Hi there, I'm JasonZYT:wave:
+### Hi there, I'm JasonZYT 👋
 
-🌱 I'm a junior high school student  
-⚡ I'm also a developer of Minecraft BDS  
-💬 You can contact me by Email/Twitter/Telegram/Discord/QQ   
-📢 Subscribe my Telegram Channel! -> [Chinese](https://t.me/jasonzyt_channel) & [English](https://t.me/jasonzyt_channel_en)  
-:earth_asia: I come from China(`🕗 GMT/UTC+8`)  
+🌱 A senior high school student  
+⚡ Also a developer of Minecraft BDS  
+❤️ I like coding and 📷photography  
+🏳️ No position: Just wanna be free, say what I want and do what I want
 
-<img align="right" src="https://github.com/Jasonzyt/github-stats/blob/master/generated/overview.svg" />
 
-#### :computer:LANGUAGES
+💬 You can contact me via Email/Twitter/Telegram/Discord/QQ   
+📢 Subscribe to my Telegram channel! -> https://t.me/jasonzyt_channel  
+🌏 I come from China(`🕗 GMT/UTC+8`)  
+
+#### 💻 LANGUAGES
 
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
@@ -25,9 +27,10 @@
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
 
-<img src="https://github.com/Jasonzyt/github-stats/blob/master/generated/languages.svg" />
+<img align="right" src="https://github.com/Jasonzyt/github-stats/blob/master/generated/languages.svg" />
+<img src="https://github.com/Jasonzyt/github-stats/blob/master/generated/overview.svg" />
 
-#### :video_game:GAMES
+#### 🎮 GAMES
 
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
@@ -41,7 +44,7 @@
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
   
-#### :memo:ORGANIZATIONS
+#### 📝 ORGANIZATIONS
   
 <!-- organization:start -->
 <!-- prettier-ignore-start -->
@@ -51,32 +54,27 @@
 <!-- prettier-ignore-end -->
 <!-- orgainization:end -->
 
-#### :open_file_folder:REPOSITORIES
+#### 📂 REPOSITORIES
 
 <!-- repos:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <!-- Key: 31, Value: 59 -->
 <!-- This is a fake console XD -->
-<!--
-| <a href="https://github.com/Jasonzyt/BDSWebSocket"       >Jasonzyt/BDSWebSocket(WIP)</a>    | An open-source WebSocket(Server) API plugin for BDS   C++ |
-| <a href="https://github.com/Jasonzyt/PHPBackupAPI"       >Jasonzyt/PHPBackupAPI</a>         | Backup APIs based on PHP&HTTP                         PHP |
-| <a href="https://github.com/Jasonzyt/GitHubBot"          >Jasonzyt/GitHubBot(WIP)</a>       | A plugin for Mirai QQ bot based on Webhooks        Kotlin |
--->
 <pre>
 root@jasonzyt:~$ github repo list
  GitHub Repositories Tool | Author: Jasonzyt
- |============= KEY =============|========================== VALUE ==========================|
- | <a href="https://github.com/LiteLDev/LiteLoaderBDS"      >LiteLDev/LiteLoaderBDS</a>        | A lightweight plugin loader for BDS                   C++ |
- | <a href="https://github.com/LiteLDev/PermissionAPI"      >LiteLDev/PermissionAPI</a>        | Powerful permission group API for LiteLoaderBDS       C++ |
- | <a href="https://github.com/Jasonzyt/Calculator"         >Jasonzyt/Calculator</a>           | In-game calculator for BDS                            C++ |
- | <a href="https://github.com/Jasonzyt/FakePlayerHelper"   >Jasonzyt/FakePlayerHelper</a>     | A simple FakePlayer manager plugin                    C++ |
- | <a href="https://github.com/Jasonzyt/QuickBackupX"       >Jasonzyt/QuickBackupX</a>         | A backup plugin for BDS                               C++ |
- | <a href="https://github.com/Jasonzyt/password-fabric"    >Jasonzyt/password-fabric</a>      | Password and whitelist plugin for fabric servers     Java |
- | <a href="https://github.com/Jasonzyt/File-Web-Repository">Jasonzyt/File-Web-Repository</a>  | A personal file repository website                    PHP |
- | <a href="https://github.com/Jasonzyt/background.js"      >Jasonzyt/background.js</a>        | A simple background image interface for JS & CSS       JS |
- | <a href="https://github.com/ddf8196/FakePlayer"          >ddf8196/FakePlayer</a>            | A fake player client for Minecraft: Bedrock Edition  Java |
- |===============================|===========================================================|
+ |============= REPO =============|=========================== DESC ===========================|
+ | <a href="https://github.com/LiteLDev/LiteLoaderBDS"      >LiteLDev/LiteLoaderBDS</a>         | A lightweight plugin loader for BDS                    C++ |
+ | <a href="https://github.com/LiteLDev/PermissionAPI"      >LiteLDev/PermissionAPI</a>         | Powerful permission group API for LiteLoaderBDS        C++ |
+ | <a href="https://github.com/Jasonzyt/Calculator"         >Jasonzyt/Calculator</a>            | In-game calculator for BDS                             C++ |
+ | <a href="https://github.com/Jasonzyt/FakePlayerHelper"   >Jasonzyt/FakePlayerHelper</a>      | A simple FakePlayer manager plugin                     C++ |
+ | <a href="https://github.com/Jasonzyt/QuickBackupX"       >Jasonzyt/QuickBackupX</a>          | A backup plugin for BDS                                C++ |
+ | <a href="https://github.com/Jasonzyt/password-fabric"    >Jasonzyt/password-fabric</a>       | Password and whitelist plugin for fabric servers      Java |
+ | <a href="https://github.com/Jasonzyt/File-Web-Repository">Jasonzyt/File-Web-Repository</a>   | A personal file repository website                     PHP |
+ | <a href="https://github.com/Jasonzyt/background.js"      >Jasonzyt/background.js</a>         | A simple background image interface for JS & CSS        JS |
+ | <a href="https://github.com/ddf8196/FakePlayer"          >ddf8196/FakePlayer</a>             | A fake player client for Minecraft: Bedrock Edition   Java |
+ |================================|============================================================|
 root@jasonzyt:~$ rm -rf /*▍
 </pre>
 <!-- markdownlint-restore -->
