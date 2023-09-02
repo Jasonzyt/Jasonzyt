@@ -39,7 +39,7 @@
 <code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/img/genshin-impact.png" alt="genshin" /></a>&nbsp;TECH OTAKUS SAVE THE WORLD!!!</code>
 <br />
 <br />
-<img width="384px" height="224px" src="https://raw.githubusercontent.com/Jasonzyt/genshin-stats/main/out.png" alt="玩原神玩的" />
+<img width="378px" height="222px" src="https://raw.githubusercontent.com/Jasonzyt/genshin-stats/main/out.png" alt="玩原神玩的" />
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
