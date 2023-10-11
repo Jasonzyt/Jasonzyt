@@ -1,6 +1,6 @@
 ### Hi there, I'm JasonZYT 👋
 
-🌱 A senior high school student  
+🌱 A senior high school student & junior OIer  
 ⚡ Also a developer of Minecraft BDS  
 ❤️ I like 👨‍💻coding and 📷photography  
 🏳️ No position: Just wanna be free, say what I want and do what I want
