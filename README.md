@@ -35,11 +35,12 @@
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><a href="https://minecraft.net/"><img height="20" src="assets/img/minecraft.net.ico" alt="minecraft" /></a></code>
-<code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/img/genshin-impact.png" alt="genshin" /></a>&nbsp;TECH OTAKUS SAVE THE WORLD!!!</code>
+<code><a href="https://minecraft.net/"><img height="20" src="assets/img/minecraft.net.ico" alt="minecraft" /></a>&nbsp;Minecraft</code>
+<code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/img/genshin-impact.png" alt="genshin" /></a>&nbsp;Genshin Impact(China)<!--&nbsp;TECH OTAKUS SAVE THE WORLD!!!--></code>
+<code><a href="https://asia.wargaming.net/en/games/wows"><img height="20" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/552990/023b6bb5bcf82f9222d70cd38fdb18a899bd67e8.jpg" alt="genshin" /></a>&nbsp;World of Warships(Asia)<!--&nbsp;TECH OTAKUS SAVE THE WORLD!!!--></code>
 <br />
 <br />
-<img width="378px" height="222px" src="https://raw.githubusercontent.com/Jasonzyt/genshin-stats/main/out.png" alt="玩原神玩的" />
+<!--img width="378px" height="222px" src="https://raw.githubusercontent.com/Jasonzyt/genshin-stats/main/out.png" alt="玩原神玩的" /-->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
@@ -50,6 +51,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><a href="https://github.com/LiteLDev"><img height="20" src="https://avatars.githubusercontent.com/u/78095377" alt="LiteLDev" /></a>&nbsp;<a href="https://github.com/LiteLDev">@LiteLDev</a></code>
+<code><a href="https://github.com/LiteLDev"><img height="20" src="https://avatars.githubusercontent.com/u/143823071" alt="MetchaStudios" /></a>&nbsp;<a href="https://github.com/MetchaStudios">@MetchaStudios</a></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- orgainization:end -->
