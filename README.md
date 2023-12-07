@@ -51,7 +51,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><a href="https://github.com/LiteLDev"><img height="20" src="https://avatars.githubusercontent.com/u/78095377" alt="LiteLDev" /></a>&nbsp;<a href="https://github.com/LiteLDev">@LiteLDev</a></code>
-<code><a href="https://github.com/LiteLDev"><img height="20" src="https://avatars.githubusercontent.com/u/143823071" alt="MetchaStudios" /></a>&nbsp;<a href="https://github.com/MetchaStudios">@MetchaStudios</a></code>
+<code><a href="https://github.com/LiteLDev"><img height="20" src="https://avatars.githubusercontent.com/u/128713997" alt="Metcha-Studios" /></a>&nbsp;<a href="https://github.com/Metcha-Studios">@Metcha-Studios</a></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- orgainization:end -->
