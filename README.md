@@ -37,7 +37,8 @@
 <!-- markdownlint-disable -->
 <code><a href="https://minecraft.net/"><img height="20" src="assets/img/minecraft.net.ico" alt="minecraft" /></a>&nbsp;Minecraft</code>
 <code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/img/genshin-impact.png" alt="genshin" /></a>&nbsp;Genshin Impact(China)<!--&nbsp;TECH OTAKUS SAVE THE WORLD!!!--></code>
-<code><a href="https://asia.wargaming.net/en/games/wows"><img height="20" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/552990/023b6bb5bcf82f9222d70cd38fdb18a899bd67e8.jpg" alt="genshin" /></a>&nbsp;World of Warships(Asia)<!--&nbsp;TECH OTAKUS SAVE THE WORLD!!!--></code>
+<code><a href="https://asia.wargaming.net/en/games/wows"><img height="20" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/552990/023b6bb5bcf82f9222d70cd38fdb18a899bd67e8.jpg" alt="wows" /></a>&nbsp;World of Warships(Asia)</code>
+<code><a href="https://www.dice.se/game/battlefield-v"><img height="20" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238810/efa4f81c3558c637a107e9ac36fd11996022110c.ico" alt="bf5" /></a>&nbsp;Battlefield V</code>
 <br />
 <br />
 <!--img width="378px" height="222px" src="https://raw.githubusercontent.com/Jasonzyt/genshin-stats/main/out.png" alt="玩原神玩的" /-->
