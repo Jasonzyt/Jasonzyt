@@ -9,6 +9,7 @@
 💬 You can contact me via Email/Twitter/Telegram/Discord/QQ   
 📢 Subscribe to my Telegram channel! -> https://t.me/jasonzyt_channel  
 🌏 I come from China(`🕗 GMT/UTC+8`)  
+🏕️ Have you ever seen the anime `Yuru Camp ▲`? I strongly recommend you watch it!
 
 #### 💻 LANGUAGES
 
@@ -63,7 +64,6 @@ root@jasonzyt:~$ github repo list
  GitHub Repositories Tool | Author: Jasonzyt
  |============= REPO =============|============================ DESC ============================|
  | <a href="https://github.com/LiteLDev/LiteLoaderBDS"      >LiteLDev/LiteLoaderBDS</a>         | A lightweight plugin loader for BDS                      C++ |
- | <a href="https://github.com/LiteLDev/PermissionAPI"      >LiteLDev/PermissionAPI</a>         | Powerful permission group API for LiteLoaderBDS          C++ |
  | <a href="https://github.com/Jasonzyt/password-fabric"    >Jasonzyt/password-fabric</a>       | Password and whitelist plugin for fabric servers        Java |
  | <a href="https://github.com/Jasonzyt/background.js"      >Jasonzyt/background.js</a>         | A simple background image interface for JS & CSS          JS |
  | <a href="https://github.com/Jasonzyt/genshin-stats"      >Jasonzyt/genshin-stats</a>         | Generate genshin stats card like the image above      Python |
