@@ -1,9 +1,10 @@
 ### Hi there, I'm JasonZYT 👋
 
 🌱 A senior high school student & junior OIer  
-⚡ Also a developer of Minecraft BDS  
+⚡ Former developer of Minecraft BDS, currently focusing on Web dev(full-stack)  
 ❤️ I like 👨‍💻coding and 📷photography  
-🏳️ No position: Just wanna be free, say what I want and do what I want
+🏳️ No position: Just wanna be free, say what I want and do what I want  
+👀 More about me -> https://jasonz.yt/about
 
 
 💬 You can contact me via Email/Twitter/Telegram/Discord/QQ   
@@ -63,11 +64,14 @@
 root@jasonzyt:~$ github repo list
  GitHub Repositories Tool | Author: Jasonzyt
  |============= REPO =============|============================ DESC ============================|
- | <a href="https://github.com/LiteLDev/LiteLoaderBDS"      >LiteLDev/LiteLoaderBDS</a>         | A lightweight plugin loader for BDS                      C++ |
- | <a href="https://github.com/Jasonzyt/password-fabric"    >Jasonzyt/password-fabric</a>       | Password and whitelist plugin for fabric servers        Java |
- | <a href="https://github.com/Jasonzyt/background.js"      >Jasonzyt/background.js</a>         | A simple background image interface for JS & CSS          JS |
- | <a href="https://github.com/Jasonzyt/genshin-stats"      >Jasonzyt/genshin-stats</a>         | Generate genshin stats card like the image above      Python |
- | <a href="https://github.com/ddf8196/FakePlayer"          >ddf8196/FakePlayer</a>             | A fake player client for Minecraft: Bedrock Edition     Java |
+ | <a href="https://github.com/LiteLDev/LeviLamina"       >LiteLDev/LeviLamina</a>            | Lightweight, modular and versatile mod loader for MCBE   C++ |
+ | <a href="https://github.com/Jasonzyt/password-fabric"  >Jasonzyt/password-fabric</a>       | Password and whitelist plugin for fabric servers        Java |
+ | <a href="https://github.com/Jasonzyt/genshin-stats"    >Jasonzyt/genshin-stats</a>         | Genshin statistics card generator                     Python |
+ | <a href="https://github.com/Jasonzyt/cloud-map-spider" >Jasonzyt/cloud-map-spider</a>      | Spider cloud maps from NSMC.org.cn and etc            Python |
+ | <a href="https://github.com/ddf8196/FakePlayer"        >ddf8196/FakePlayer</a>             | Fake player client for Minecraft: Bedrock Edition       Java |
+ | <a href="https://github.com/Jasonzyt/campu"            >Jasonzyt/campu</a>                 | My first Nuxt project & blog -> <a href="https://jasonz.yt/">jasonz.yt</a>                Vue |
+ | <a href="https://github.com/Jasonzyt/crazy-gojuon"     >Jasonzyt/crazy-gojuon</a>          | Crazy Japanese 50-sounds exercise! -> <a href="https://gojuon.jasonz.yt/">gojuon.jasonz.yt</a>   Vue |
+ | <a href="https://github.com/Jasonzyt/gallery"          >Jasonzyt/gallery</a>               | Best site to present your photos! -> <a href="https://gallery.jasonz.yt">gallery.jasonz.yt</a>   Vue |
  |================================|==============================================================|
 root@jasonzyt:~$ rm -rf /*▍
 </pre>
@@ -76,3 +80,6 @@ root@jasonzyt:~$ rm -rf /*▍
 <!-- repos:end -->
 
 > `0 Error(s), 0 Warning(s)`
+
+> Keep looking, don't settle  
+> Stay hungry, stay foolish
