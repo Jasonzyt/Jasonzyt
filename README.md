@@ -70,7 +70,7 @@ root@jasonzyt:~$ github repo list
  | <a href="https://github.com/Jasonzyt/cloud-map-spider" >Jasonzyt/cloud-map-spider</a>      | Spider cloud maps from NSMC.org.cn and etc            Python |
  | <a href="https://github.com/ddf8196/FakePlayer"        >ddf8196/FakePlayer</a>             | Fake player client for Minecraft: Bedrock Edition       Java |
  | <a href="https://github.com/Jasonzyt/campu"            >Jasonzyt/campu</a>                 | My first Nuxt project & blog -> <a href="https://jasonz.yt/">jasonz.yt</a>                Vue |
- | <a href="https://github.com/Jasonzyt/crazy-gojuon"     >Jasonzyt/crazy-gojuon</a>          | Crazy Japanese 50-sounds exercise! -> <a href="https://gojuon.jasonz.yt/">gojuon.jasonz.yt</a>   Vue |
+ | <a href="https://github.com/Jasonzyt/kana-loop"        >Jasonzyt/kana-loop</a>             | Japanese Kana Loop Exercise! -> <a href="https://gojuon.jasonz.yt/">gojuon.jasonz.yt</a>         Vue |
  | <a href="https://github.com/Jasonzyt/gallery"          >Jasonzyt/gallery</a>               | Best site to present your photos! -> <a href="https://gallery.jasonz.yt">gallery.jasonz.yt</a>   Vue |
  |================================|==============================================================|
 root@jasonzyt:~$ rm -rf /*▍
